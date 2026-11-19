@@ -64,6 +64,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Here is the link of ppt in google drive- [https://docs.google.com/document/d/1hZRkyVUa3M5KUHnhmKG3NupmwWnd7HUE/edit?usp=drive_link&ouid=107282259805337131673&rtpof=true&sd=true]
 
 ### `npm run build` fails to minify
 
